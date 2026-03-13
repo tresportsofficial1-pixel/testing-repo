@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-custstgacct--rahultestsynaps-teststoragerahul123456",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/d71ab4f7-46c1-4a0f-a282-af05d98306a1/resourceGroups/Rahul-RG/providers/Microsoft.Storage/storageAccounts/teststoragerahul123456",
+		"groupId": "dfs",
+		"fqdns": [
+			"teststoragerahul123456.dfs.core.windows.net"
+		]
+	}
+}

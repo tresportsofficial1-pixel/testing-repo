@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--rahultestsynaps",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/d71ab4f7-46c1-4a0f-a282-af05d98306a1/resourceGroups/Rahul-RG/providers/Microsoft.Synapse/workspaces/rahultestsynaps",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"rahultestsynaps-ondemand.57ccc741-a57e-4380-b387-94ddfbb1ccc5.sql.azuresynapse.net"
+		]
+	}
+}

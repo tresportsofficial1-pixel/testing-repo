@@ -1,0 +1,7 @@
+{
+	"name": "AzureTableStorage717",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/d71ab4f7-46c1-4a0f-a282-af05d98306a1/resourceGroups/Aryan-RG/providers/Microsoft.Storage/storageAccounts/teststoragearyan",
+		"groupId": "table"
+	}
+}
